@@ -44,7 +44,6 @@ Iced	Interface gráfica moderna e reativa
 Certifique-se de ter o Rust instalado:
 
 ```bash
-rustup update
 Execute o projeto:
 
 cargo run
