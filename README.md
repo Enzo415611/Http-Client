@@ -47,10 +47,8 @@ Certifique-se de ter o Rust instalado:
 rustup update
 Execute o projeto:
 
-bash
-Copy code
 cargo run
+
 🔧 Criar um executável (build de release)
-bash
-Copy code
+
 cargo build --release
