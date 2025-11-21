@@ -44,11 +44,13 @@ Iced	Interface gráfica moderna e reativa
 Certifique-se de ter o Rust instalado:
 
 ```bash
-E execute:
+rustup update
+Execute o projeto:
 
+bash
+Copy code
 cargo run
-
-
-criar um executavel:
-
+🔧 Criar um executável (build de release)
+bash
+Copy code
 cargo build --release
