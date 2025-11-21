@@ -38,3 +38,17 @@ Iced	Interface gráfica moderna e reativa
 ✔️ Erros tratados (ex.: URL inexistente, timeout, erro de parse etc.)
 ✔️ Operações totalmente assíncronas usando Tokio
 ✔️ Interface clean feita com Iced
+
+## 📦 Como rodar
+
+Certifique-se de ter o Rust instalado:
+
+```bash
+E execute:
+
+cargo run
+
+
+criar um executavel:
+
+cargo build --release
